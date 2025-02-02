@@ -6,7 +6,7 @@ skipDeleteIssues: true
 
 sites:
   - name: website
-    url: https:/mysheus.ru
+    url: https://mysheus.ru
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
