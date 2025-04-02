@@ -4,7 +4,7 @@
     "url": "https://mysheus.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mysheus.ru.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 688,
     "timeYear": 712,
     "dailyMinutesDown": {
+      "2025-04-02": 0,
       "2025-03-22": 54,
       "2025-02-19": 11,
       "2025-02-05": 20,
