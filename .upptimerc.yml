@@ -6,7 +6,7 @@ skipDeleteIssues: true
 
 sites:
   - name: website
-    url: https://mysheus.ru
+    url: https://mysheus.md
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,9 +23,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Website
-      href: https://mysheus.ru
+      href: https://mysheus.md
     - title: Contacts
-      href: https://c.mysheus.ru
+      href: https://c.mysheus.md
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
