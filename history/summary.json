@@ -1,8 +1,8 @@
 [
   {
     "name": "website",
-    "url": "https://mysheus.ru",
-    "icon": "https://icons.duckduckgo.com/ip3/mysheus.ru.ico",
+    "url": "https://mysheus.md",
+    "icon": "https://icons.duckduckgo.com/ip3/mysheus.md.ico",
     "slug": "website",
     "status": "up",
     "uptime": "99.77%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1361,
-    "timeDay": 595,
-    "timeWeek": 789,
-    "timeMonth": 767,
+    "time": 1360,
+    "timeDay": 971,
+    "timeWeek": 859,
+    "timeMonth": 785,
     "timeYear": 1367,
     "dailyMinutesDown": {
       "2025-08-02": 25,
